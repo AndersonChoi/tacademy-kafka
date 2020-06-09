@@ -28,6 +28,12 @@
 - [aws](https://aws.amazon.com/ko/)
 - [intellij Community](https://www.jetbrains.com/ko-kr/idea/download)
 
+## 프로젝트 실행하는 방법
+
+1. Intellij Community Edition 다운로드, 설치
+2. Import project
+3. Run application
+
 ## 사전 학습 자료
 
 AWS EC2 기본

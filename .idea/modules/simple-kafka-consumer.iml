@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="simple-kafka-consumer" external.linked.project.path="$MODULE_DIR$/../../simple-kafka-consumer" external.root.project.path="$MODULE_DIR$/../../simple-kafka-consumer" external.system.id="GRADLE" external.system.module.group="com.tacademy" external.system.module.version="1.0" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../simple-kafka-consumer" rootProjectPath="$MODULE_DIR$/../../simple-kafka-consumer" />
+</module>
