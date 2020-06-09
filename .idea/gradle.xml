@@ -35,6 +35,16 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-producer-exact-partition" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kafka-producer-exact-partition" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/kafka-producer-key-value" />
         <option name="modules">
           <set>
