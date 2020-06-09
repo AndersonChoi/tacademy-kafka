@@ -25,14 +25,24 @@
 
 ## 개발 환경 구성
 
-- [aws](https://aws.amazon.com/ko/)
-- [intellij Community](https://www.jetbrains.com/ko-kr/idea/download)
+- [aws](https://aws.amazon.com/ko/) 계정 생성
+- [intellij Community](https://www.jetbrains.com/ko-kr/idea/download) 설치
 
 ## 프로젝트 실행하는 방법
 
-1. Intellij Community Edition 다운로드, 설치
+1. [AndersonChoi/tacademy-kafka](https://github.com/AndersonChoi/tacademy-kafka) download or git clone in your local
+```
+$ git cone https://github.com/AndersonChoi/tacademy-kafka.git
+```
+
 2. Import project
+![import project1](https://raw.githubusercontent.com/AndersonChoi/tacademy-kafka/master/image/image01.png)
+![import project2](https://raw.githubusercontent.com/AndersonChoi/tacademy-kafka/master/image/image02.png)
+![import project3](https://raw.githubusercontent.com/AndersonChoi/tacademy-kafka/master/image/image03.png)
+
 3. Run application
+![import project4](https://raw.githubusercontent.com/AndersonChoi/tacademy-kafka/master/image/image04.png)
+
 
 ## 사전 학습 자료
 
