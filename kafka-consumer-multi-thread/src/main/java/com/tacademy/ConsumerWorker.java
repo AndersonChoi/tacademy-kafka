@@ -38,6 +38,7 @@ public class ConsumerWorker implements Runnable {
         } finally {
             System.out.println(threadName + " gracefully shutdown");
             consumer.commitSync();
+            consumer.close();
         }
     }
 
