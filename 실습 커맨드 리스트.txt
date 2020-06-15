@@ -17,7 +17,7 @@ Apache Kafka 입문과 활용
 12 curl http://mirror.navercorp.com/apache/kafka/2.5.0/kafka_2.13-2.5.0.tgz --output kafka.tgz 
 13 tar -xvf kafka.tgz
 14 cd kafka_2.13-2.5.0/bin
-15 ./kafka-topics.sh --create --bootstrap-server {awsec2 public ip}:9092 --replication-factor 1 --partitions 3 --topic test
+15 ./kafka-topics.sh --create --bootstrap-server {aws ec2 public ip}:9092 --replication-factor 1 --partitions 3 --topic test
 16 ./kafka-console-producer.sh --bootstrap-server {aws ec2 public ip}:9092 --topic test
 17 ./kafka-console-consumer.sh --bootstrap-server {aws ec2 public ip}:9092 --topic test --from-beginning
 18 ./kafka-console-consumer.sh --bootstrap-server {aws ec2 public ip}:9092 --topic test -group testgroup --from-beginning
