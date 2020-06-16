@@ -1,0 +1,174 @@
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_nice=0,usage_steal=0,usage_guest=0,usage_system=15.921019745063735,usage_idle=62.434391402149465,usage_iowait=0,usage_irq=0,usage_softirq=0,usage_guest_nice=0,usage_user=21.644588852786804 1592318260000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_system=10.3,usage_idle=73.9,usage_irq=0,usage_softirq=0,usage_guest_nice=0,usage_user=15.8,usage_nice=0,usage_iowait=0,usage_steal=0,usage_guest=0 1592318260000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_system=19.68031968031968,usage_nice=0,usage_iowait=0,usage_softirq=0,usage_guest_nice=0,usage_user=25.674325674325676,usage_idle=54.645354645354644,usage_irq=0,usage_steal=0,usage_guest=0 1592318260000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_idle=71.67167167167167,usage_softirq=0,usage_guest=0,usage_system=11.21121121121121,usage_nice=0,usage_iowait=0,usage_irq=0,usage_steal=0,usage_guest_nice=0,usage_user=17.117117117117118 1592318260000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_user=28,usage_idle=49.6,usage_guest=0,usage_guest_nice=0,usage_system=22.4,usage_nice=0,usage_iowait=0,usage_irq=0,usage_softirq=0,usage_steal=0 1592318260000000000
+
+mem,host=andersonui-MacBookAir.local sunreclaim=0i,write_back=0i,used=6435778560i,free=62009344i,commit_limit=0i,dirty=0i,page_tables=0i,total=8589934592i,available=2154156032i,available_percent=25.07767677307129,high_total=0i,shared=0i,cached=0i,wired=2402398208i,vmalloc_total=0i,buffered=0i,slab=0i,used_percent=74.92232322692871,swap_cached=0i,vmalloc_used=0i,huge_page_size=0i,low_free=0i,low_total=0i,mapped=0i,swap_free=0i,active=2141204480i,committed_as=0i,vmalloc_chunk=0i,inactive=2092146688i,high_free=0i,huge_pages_free=0i,write_back_tmp=0i,huge_pages_total=0i,sreclaimable=0i,swap_total=0i 1592318260000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_irq=0,usage_guest=0,usage_idle=46.65,usage_iowait=0,usage_nice=0,usage_softirq=0,usage_steal=0,usage_guest_nice=0,usage_user=37.375,usage_system=15.975 1592318270000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_nice=0,usage_irq=0,usage_steal=0,usage_guest=0,usage_system=10.2,usage_idle=56,usage_softirq=0,usage_guest_nice=0,usage_user=33.8,usage_iowait=0 1592318270000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_nice=0,usage_iowait=0,usage_irq=0,usage_steal=0,usage_guest_nice=0,usage_user=39.7,usage_system=20.2,usage_idle=40.1,usage_softirq=0,usage_guest=0 1592318270000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_nice=0,usage_iowait=0,usage_steal=0,usage_guest=0,usage_guest_nice=0,usage_user=35.66433566433567,usage_idle=52.747252747252745,usage_irq=0,usage_softirq=0,usage_system=11.588411588411589 1592318270000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_guest=0,usage_guest_nice=0,usage_system=22,usage_idle=37.7,usage_nice=0,usage_iowait=0,usage_irq=0,usage_user=40.3,usage_softirq=0,usage_steal=0 1592318270000000000
+
+mem,host=andersonui-MacBookAir.local sreclaimable=0i,available=2549301248i,mapped=0i,low_free=0i,page_tables=0i,swap_free=0i,vmalloc_chunk=0i,used=6040633344i,buffered=0i,total=8589934592i,dirty=0i,huge_page_size=0i,huge_pages_total=0i,sunreclaim=0i,swap_total=0i,write_back_tmp=0i,active=2251849728i,committed_as=0i,slab=0i,high_free=0i,vmalloc_used=0i,write_back=0i,cached=0i,wired=2283520000i,huge_pages_free=0i,shared=0i,swap_cached=0i,commit_limit=0i,high_total=0i,vmalloc_total=0i,used_percent=70.32222747802734,available_percent=29.677772521972656,low_total=0i,free=330448896i,inactive=2218852352i 1592318270000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_system=10.127531882970743,usage_idle=76.0190047511878,usage_nice=0,usage_iowait=0,usage_irq=0,usage_softirq=0,usage_user=13.85346336584146,usage_steal=0,usage_guest=0,usage_guest_nice=0 1592318280000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_guest_nice=0,usage_irq=0,usage_steal=0,usage_idle=85.3,usage_nice=0,usage_iowait=0,usage_softirq=0,usage_guest=0,usage_user=8.9,usage_system=5.8 1592318280000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_steal=0,usage_user=17.9,usage_system=13,usage_idle=69.1,usage_nice=0,usage_iowait=0,usage_irq=0,usage_softirq=0,usage_guest_nice=0,usage_guest=0 1592318280000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_softirq=0,usage_system=6.706706706706707,usage_idle=81.78178178178179,usage_nice=0,usage_iowait=0,usage_irq=0,usage_steal=0,usage_guest=0,usage_guest_nice=0,usage_user=11.511511511511511 1592318280000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_guest=0,usage_user=17.1,usage_nice=0,usage_irq=0,usage_softirq=0,usage_steal=0,usage_system=15,usage_idle=67.9,usage_iowait=0,usage_guest_nice=0 1592318280000000000
+
+mem,host=andersonui-MacBookAir.local write_back=0i,cached=0i,swap_free=0i,high_free=0i,shared=0i,available_percent=29.83541488647461,committed_as=0i,huge_pages_total=0i,sreclaimable=0i,swap_cached=0i,write_back_tmp=0i,slab=0i,huge_pages_free=0i,inactive=2325917696i,total=8589934592i,free=236924928i,vmalloc_total=0i,used_percent=70.16458511352539,page_tables=0i,dirty=0i,vmalloc_chunk=0i,wired=2186358784i,commit_limit=0i,buffered=0i,active=2370498560i,huge_page_size=0i,low_free=0i,mapped=0i,swap_total=0i,available=2562842624i,used=6027091968i,vmalloc_used=0i,sunreclaim=0i,high_total=0i,low_total=0i 1592318280000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_nice=0,usage_irq=0,usage_softirq=0,usage_guest_nice=0,usage_guest=0,usage_user=12.553138284571142,usage_system=8.952238059514878,usage_idle=78.49462365591398,usage_iowait=0,usage_steal=0 1592318290000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_system=4.104104104104104,usage_irq=0,usage_steal=0,usage_guest=0,usage_guest_nice=0,usage_user=8.108108108108109,usage_idle=87.78778778778779,usage_nice=0,usage_iowait=0,usage_softirq=0 1592318290000000000
+
+mem,host=andersonui-MacBookAir.local used_percent=70.75510025024414,available_percent=29.24489974975586,write_back_tmp=0i,sunreclaim=0i,swap_free=0i,free=142008320i,buffered=0i,slab=0i,dirty=0i,huge_pages_free=0i,page_tables=0i,vmalloc_chunk=0i,shared=0i,vmalloc_total=0i,used=6077816832i,cached=0i,wired=2208763904i,high_free=0i,high_total=0i,huge_page_size=0i,vmalloc_used=0i,active=2413170688i,inactive=2370109440i,low_free=0i,mapped=0i,write_back=0i,committed_as=0i,low_total=0i,sreclaimable=0i,swap_cached=0i,swap_total=0i,total=8589934592i,available=2512117760i,commit_limit=0i,huge_pages_total=0i 1592318290000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_user=16.1,usage_system=11.8,usage_softirq=0,usage_steal=0,usage_guest=0,usage_guest_nice=0,usage_idle=72.1,usage_nice=0,usage_iowait=0,usage_irq=0 1592318290000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_nice=0,usage_steal=0,usage_system=6.4,usage_idle=83.3,usage_irq=0,usage_softirq=0,usage_guest=0,usage_guest_nice=0,usage_user=10.3,usage_iowait=0 1592318290000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_steal=0,usage_user=15.7,usage_iowait=0,usage_nice=0,usage_irq=0,usage_softirq=0,usage_guest=0,usage_guest_nice=0,usage_system=13.5,usage_idle=70.8 1592318290000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_guest=0,usage_guest_nice=0,usage_system=6.923269182704324,usage_iowait=0,usage_softirq=0,usage_steal=0,usage_user=8.097975506123468,usage_idle=84.97875531117221,usage_nice=0,usage_irq=0 1592318300000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_idle=92.8071928071928,usage_irq=0,usage_guest=0,usage_guest_nice=0,usage_user=4.195804195804196,usage_nice=0,usage_iowait=0,usage_softirq=0,usage_steal=0,usage_system=2.997002997002997 1592318300000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_user=10.4,usage_idle=80.9,usage_nice=0,usage_iowait=0,usage_irq=0,usage_guest=0,usage_system=8.7,usage_softirq=0,usage_steal=0,usage_guest_nice=0 1592318300000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_system=5.2,usage_irq=0,usage_steal=0,usage_guest=0,usage_guest_nice=0,usage_user=7,usage_idle=87.8,usage_nice=0,usage_iowait=0,usage_softirq=0 1592318300000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_user=10.8,usage_irq=0,usage_softirq=0,usage_guest=0,usage_steal=0,usage_guest_nice=0,usage_system=10.8,usage_idle=78.4,usage_nice=0,usage_iowait=0 1592318300000000000
+
+mem,host=andersonui-MacBookAir.local huge_pages_free=0i,mapped=0i,swap_total=0i,total=8589934592i,dirty=0i,vmalloc_used=0i,available=2497175552i,huge_page_size=0i,inactive=2369695744i,used_percent=70.92905044555664,commit_limit=0i,high_free=0i,low_total=0i,swap_cached=0i,free=127479808i,active=2466394112i,swap_free=0i,write_back=0i,committed_as=0i,page_tables=0i,shared=0i,write_back_tmp=0i,cached=0i,huge_pages_total=0i,available_percent=29.07094955444336,used=6092759040i,buffered=0i,low_free=0i,sreclaimable=0i,sunreclaim=0i,wired=2169913344i,high_total=0i,vmalloc_total=0i,slab=0i,vmalloc_chunk=0i 1592318300000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_irq=0,usage_steal=0,usage_guest_nice=0,usage_user=6.848287928017996,usage_system=6.748312921769558,usage_idle=86.40339915021245,usage_nice=0,usage_iowait=0,usage_softirq=0,usage_guest=0 1592318310000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_user=3.6,usage_iowait=0,usage_softirq=0,usage_steal=0,usage_guest=0,usage_system=2.9,usage_idle=93.5,usage_nice=0,usage_irq=0,usage_guest_nice=0 1592318310000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_irq=0,usage_softirq=0,usage_guest=0,usage_guest_nice=0,usage_user=8.3,usage_iowait=0,usage_nice=0,usage_steal=0,usage_system=8.2,usage_idle=83.5 1592318310000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_guest=0,usage_guest_nice=0,usage_user=6.393606393606394,usage_irq=0,usage_softirq=0,usage_steal=0,usage_system=5.294705294705294,usage_idle=88.31168831168831,usage_nice=0,usage_iowait=0 1592318310000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_irq=0,usage_steal=0,usage_system=10.6,usage_idle=80.3,usage_iowait=0,usage_guest=0,usage_guest_nice=0,usage_user=9.1,usage_nice=0,usage_softirq=0 1592318310000000000
+
+mem,host=andersonui-MacBookAir.local used=6070833152i,used_percent=70.67379951477051,sreclaimable=0i,swap_total=0i,vmalloc_used=0i,write_back=0i,write_back_tmp=0i,total=8589934592i,commit_limit=0i,high_total=0i,low_total=0i,sunreclaim=0i,available=2519101440i,buffered=0i,inactive=2384879616i,available_percent=29.326200485229492,vmalloc_chunk=0i,vmalloc_total=0i,huge_page_size=0i,shared=0i,swap_cached=0i,active=2460434432i,wired=2155008000i,huge_pages_free=0i,swap_free=0i,dirty=0i,huge_pages_total=0i,low_free=0i,mapped=0i,free=134221824i,cached=0i,slab=0i,committed_as=0i,high_free=0i,page_tables=0i 1592318310000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_idle=69.875,usage_iowait=0,usage_softirq=0,usage_guest=0,usage_user=18.925,usage_system=11.2,usage_nice=0,usage_irq=0,usage_steal=0,usage_guest_nice=0 1592318320000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_system=6.406406406406407,usage_nice=0,usage_irq=0,usage_steal=0,usage_guest=0,usage_user=13.813813813813814,usage_idle=79.77977977977977,usage_iowait=0,usage_softirq=0,usage_guest_nice=0 1592318320000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_idle=64,usage_iowait=0,usage_irq=0,usage_softirq=0,usage_guest=0,usage_guest_nice=0,usage_user=22.1,usage_system=13.9,usage_nice=0,usage_steal=0 1592318320000000000
+
+mem,host=andersonui-MacBookAir.local high_free=0i,inactive=2313048064i,slab=0i,available_percent=27.86245346069336,low_total=0i,total=8589934592i,active=2361884672i,committed_as=0i,huge_pages_total=0i,page_tables=0i,shared=0i,used_percent=72.13754653930664,dirty=0i,high_total=0i,write_back_tmp=0i,cached=0i,buffered=0i,vmalloc_total=0i,swap_cached=0i,vmalloc_chunk=0i,write_back=0i,used=6196568064i,wired=2381099008i,low_free=0i,huge_pages_free=0i,mapped=0i,sunreclaim=0i,swap_total=0i,vmalloc_used=0i,available=2393366528i,free=80318464i,commit_limit=0i,swap_free=0i,huge_page_size=0i,sreclaimable=0i 1592318320000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_steal=0,usage_guest=0,usage_guest_nice=0,usage_user=15.7,usage_system=8.1,usage_nice=0,usage_softirq=0,usage_idle=76.2,usage_iowait=0,usage_irq=0 1592318320000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_steal=0,usage_user=24.075924075924075,usage_system=16.383616383616385,usage_iowait=0,usage_softirq=0,usage_guest=0,usage_guest_nice=0,usage_idle=59.54045954045954,usage_nice=0,usage_irq=0 1592318320000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_nice=0,usage_iowait=0,usage_softirq=0,usage_guest_nice=0,usage_user=11.358518889166875,usage_system=10.282712034025518,usage_steal=0,usage_guest=0,usage_idle=78.3587690768076,usage_irq=0 1592318330000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_system=5.3,usage_idle=88,usage_nice=0,usage_softirq=0,usage_steal=0,usage_user=6.7,usage_iowait=0,usage_irq=0,usage_guest=0,usage_guest_nice=0 1592318330000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_idle=72.47247247247248,usage_iowait=0,usage_softirq=0,usage_user=14.514514514514515,usage_system=13.013013013013014,usage_steal=0,usage_guest=0,usage_guest_nice=0,usage_nice=0,usage_irq=0 1592318330000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_irq=0,usage_steal=0,usage_system=7.607607607607608,usage_iowait=0,usage_nice=0,usage_softirq=0,usage_guest=0,usage_guest_nice=0,usage_user=8.80880880880881,usage_idle=83.58358358358359 1592318330000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_idle=69.36936936936937,usage_iowait=0,usage_irq=0,usage_guest=0,usage_guest_nice=0,usage_user=15.415415415415415,usage_system=15.215215215215215,usage_nice=0,usage_softirq=0,usage_steal=0 1592318330000000000
+
+mem,host=andersonui-MacBookAir.local total=8589934592i,slab=0i,used_percent=70.39809226989746,sunreclaim=0i,available=2542784512i,vmalloc_total=0i,write_back_tmp=0i,active=2537857024i,low_free=0i,mapped=0i,vmalloc_used=0i,used=6047150080i,wired=2064146432i,high_total=0i,sreclaimable=0i,swap_total=0i,cached=0i,shared=0i,write_back=0i,inactive=2460008448i,dirty=0i,high_free=0i,huge_pages_free=0i,low_total=0i,swap_free=0i,buffered=0i,huge_page_size=0i,swap_cached=0i,vmalloc_chunk=0i,free=82776064i,available_percent=29.60190773010254,commit_limit=0i,committed_as=0i,huge_pages_total=0i,page_tables=0i 1592318330000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_user=8.793404946290282,usage_system=8.918311266550088,usage_idle=82.28828378715963,usage_nice=0,usage_iowait=0,usage_softirq=0,usage_steal=0,usage_irq=0,usage_guest=0,usage_guest_nice=0 1592318340000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_guest=0,usage_user=4.895104895104895,usage_system=4.595404595404595,usage_idle=90.5094905094905,usage_nice=0,usage_guest_nice=0,usage_iowait=0,usage_irq=0,usage_softirq=0,usage_steal=0 1592318340000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_user=11.38861138861139,usage_nice=0,usage_steal=0,usage_guest_nice=0,usage_guest=0,usage_system=10.989010989010989,usage_idle=77.62237762237763,usage_iowait=0,usage_irq=0,usage_softirq=0 1592318340000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_user=7.3,usage_system=6.8,usage_nice=0,usage_softirq=0,usage_steal=0,usage_idle=85.9,usage_iowait=0,usage_irq=0,usage_guest=0,usage_guest_nice=0 1592318340000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_system=13.286713286713287,usage_idle=75.12487512487513,usage_iowait=0,usage_softirq=0,usage_guest=0,usage_user=11.588411588411589,usage_nice=0,usage_irq=0,usage_steal=0,usage_guest_nice=0 1592318340000000000
+
+mem,host=andersonui-MacBookAir.local free=70336512i,cached=0i,used_percent=71.42243385314941,commit_limit=0i,high_total=0i,shared=0i,used=6135140352i,low_total=0i,swap_free=0i,vmalloc_chunk=0i,write_back_tmp=0i,wired=2076004352i,vmalloc_used=0i,sreclaimable=0i,huge_page_size=0i,low_free=0i,sunreclaim=0i,swap_total=0i,vmalloc_total=0i,available=2454794240i,active=2613903360i,inactive=2384457728i,slab=0i,total=8589934592i,page_tables=0i,write_back=0i,available_percent=28.577566146850586,mapped=0i,huge_pages_free=0i,committed_as=0i,dirty=0i,high_free=0i,huge_pages_total=0i,swap_cached=0i,buffered=0i 1592318340000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_system=10.855427713856928,usage_idle=77.71385692846424,usage_iowait=0,usage_irq=0,usage_softirq=0,usage_guest=0,usage_user=11.430715357678839,usage_nice=0,usage_steal=0,usage_guest_nice=0 1592318350000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_steal=0,usage_guest=0,usage_user=6.906906906906907,usage_system=6.106106106106106,usage_irq=0,usage_softirq=0,usage_guest_nice=0,usage_idle=86.98698698698699,usage_nice=0,usage_iowait=0 1592318350000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_user=14.7,usage_idle=72.3,usage_nice=0,usage_iowait=0,usage_softirq=0,usage_system=13,usage_irq=0,usage_steal=0,usage_guest=0,usage_guest_nice=0 1592318350000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_nice=0,usage_softirq=0,usage_guest=0,usage_guest_nice=0,usage_user=9.3,usage_system=8.3,usage_idle=82.4,usage_iowait=0,usage_irq=0,usage_steal=0 1592318350000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_user=14.814814814814815,usage_system=16.016016016016017,usage_nice=0,usage_iowait=0,usage_softirq=0,usage_guest_nice=0,usage_idle=69.16916916916917,usage_irq=0,usage_steal=0,usage_guest=0 1592318350000000000
+
+mem,host=andersonui-MacBookAir.local write_back=0i,mapped=0i,vmalloc_total=0i,available_percent=28.75509262084961,low_free=0i,write_back_tmp=0i,free=51523584i,slab=0i,page_tables=0i,shared=0i,sreclaimable=0i,swap_free=0i,used=6119890944i,buffered=0i,swap_total=0i,huge_pages_total=0i,sunreclaim=0i,huge_page_size=0i,low_total=0i,vmalloc_chunk=0i,total=8589934592i,committed_as=0i,swap_cached=0i,vmalloc_used=0i,used_percent=71.24490737915039,huge_pages_free=0i,dirty=0i,high_free=0i,cached=0i,active=2420916224i,wired=2244608000i,commit_limit=0i,high_total=0i,available=2470043648i,inactive=2418520064i 1592318350000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_nice=0,usage_iowait=0,usage_irq=0,usage_steal=0,usage_guest=0,usage_user=12.696825793551612,usage_system=9.772556860784803,usage_idle=77.53061734566359,usage_softirq=0,usage_guest_nice=0 1592318360000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_irq=0,usage_softirq=0,usage_steal=0,usage_guest_nice=0,usage_user=7.592407592407592,usage_system=4.995004995004995,usage_idle=87.41258741258741,usage_nice=0,usage_iowait=0,usage_guest=0 1592318360000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_user=16.1,usage_idle=71.7,usage_iowait=0,usage_guest=0,usage_steal=0,usage_guest_nice=0,usage_system=12.2,usage_nice=0,usage_irq=0,usage_softirq=0 1592318360000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_system=7.1,usage_irq=0,usage_steal=0,usage_user=9.4,usage_idle=83.5,usage_nice=0,usage_iowait=0,usage_softirq=0,usage_guest=0,usage_guest_nice=0 1592318360000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_softirq=0,usage_steal=0,usage_guest=0,usage_guest_nice=0,usage_user=17.7,usage_nice=0,usage_iowait=0,usage_irq=0,usage_system=14.8,usage_idle=67.5 1592318360000000000
+
+mem,host=andersonui-MacBookAir.local high_total=0i,huge_pages_total=0i,low_free=0i,low_total=0i,mapped=0i,available=2454155264i,inactive=2360332288i,committed_as=0i,write_back=0i,dirty=0i,huge_page_size=0i,used=6135779328i,free=93822976i,available_percent=28.570127487182617,total=8589934592i,slab=0i,sreclaimable=0i,huge_pages_free=0i,swap_free=0i,vmalloc_chunk=0i,active=2539745280i,swap_cached=0i,vmalloc_used=0i,write_back_tmp=0i,sunreclaim=0i,cached=0i,buffered=0i,shared=0i,high_free=0i,page_tables=0i,swap_total=0i,vmalloc_total=0i,wired=2138120192i,used_percent=71.42987251281738,commit_limit=0i 1592318360000000000
+
+mem,host=andersonui-MacBookAir.local used=6021509120i,cached=0i,inactive=2468397056i,dirty=0i,low_free=0i,vmalloc_used=0i,page_tables=0i,available_percent=29.900407791137695,high_total=0i,low_total=0i,swap_cached=0i,write_back_tmp=0i,wired=2068389888i,used_percent=70.0995922088623,high_free=0i,vmalloc_total=0i,write_back=0i,total=8589934592i,free=100028416i,buffered=0i,huge_pages_total=0i,commit_limit=0i,huge_pages_free=0i,shared=0i,vmalloc_chunk=0i,available=2568425472i,active=2498183168i,huge_page_size=0i,mapped=0i,sreclaimable=0i,swap_free=0i,swap_total=0i,slab=0i,committed_as=0i,sunreclaim=0i 1592318370000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_iowait=0,usage_steal=0,usage_guest_nice=0,usage_user=9.925,usage_system=7.625,usage_idle=82.45,usage_nice=0,usage_irq=0,usage_softirq=0,usage_guest=0 1592318370000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_idle=91.49149149149149,usage_iowait=0,usage_irq=0,usage_softirq=0,usage_steal=0,usage_guest_nice=0,usage_user=4.904904904904905,usage_nice=0,usage_guest=0,usage_system=3.6036036036036037 1592318370000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_idle=77.2,usage_iowait=0,usage_softirq=0,usage_steal=0,usage_guest=0,usage_guest_nice=0,usage_user=13.5,usage_nice=0,usage_irq=0,usage_system=9.3 1592318370000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_iowait=0,usage_irq=0,usage_guest=0,usage_idle=86.51348651348651,usage_system=5.994005994005994,usage_nice=0,usage_softirq=0,usage_steal=0,usage_guest_nice=0,usage_user=7.492507492507492 1592318370000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_irq=0,usage_steal=0,usage_idle=74.6,usage_nice=0,usage_iowait=0,usage_softirq=0,usage_guest=0,usage_guest_nice=0,usage_user=13.8,usage_system=11.6 1592318370000000000
+
+mem,host=andersonui-MacBookAir.local commit_limit=0i,available=2474102784i,mapped=0i,swap_free=0i,vmalloc_chunk=0i,used_percent=71.19765281677246,active=2610544640i,available_percent=28.80234718322754,high_free=0i,huge_page_size=0i,low_total=0i,sunreclaim=0i,write_back_tmp=0i,total=8589934592i,buffered=0i,slab=0i,huge_pages_free=0i,low_free=0i,cached=0i,vmalloc_used=0i,swap_cached=0i,vmalloc_total=0i,free=123805696i,inactive=2350297088i,wired=2050854912i,huge_pages_total=0i,shared=0i,used=6115831808i,dirty=0i,high_total=0i,page_tables=0i,sreclaimable=0i,swap_total=0i,write_back=0i,committed_as=0i 1592318380000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_nice=0,usage_irq=0,usage_softirq=0,usage_steal=0,usage_guest_nice=0,usage_system=6.075,usage_idle=87.25,usage_iowait=0,usage_guest=0,usage_user=6.675 1592318380000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_system=2.797202797202797,usage_idle=93.8061938061938,usage_nice=0,usage_irq=0,usage_softirq=0,usage_guest=0,usage_guest_nice=0,usage_user=3.3966033966033966,usage_steal=0,usage_iowait=0 1592318380000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_user=8.608608608608609,usage_idle=84.58458458458459,usage_nice=0,usage_softirq=0,usage_guest=0,usage_system=6.806806806806807,usage_iowait=0,usage_irq=0,usage_steal=0,usage_guest_nice=0 1592318380000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_guest_nice=0,usage_idle=89.28928928928929,usage_nice=0,usage_iowait=0,usage_irq=0,usage_softirq=0,usage_steal=0,usage_guest=0,usage_user=5.8058058058058055,usage_system=4.904904904904905 1592318380000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_guest=0,usage_idle=81.31868131868131,usage_nice=0,usage_irq=0,usage_softirq=0,usage_steal=0,usage_guest_nice=0,usage_user=8.89110889110889,usage_system=9.79020979020979,usage_iowait=0 1592318380000000000
+
+mem,host=andersonui-MacBookAir.local swap_free=0i,vmalloc_used=0i,low_total=0i,sreclaimable=0i,sunreclaim=0i,huge_pages_free=0i,free=95764480i,cached=0i,inactive=2358194176i,slab=0i,write_back=0i,available=2453958656i,used=6135975936i,low_free=0i,high_free=0i,huge_pages_total=0i,shared=0i,swap_cached=0i,active=2619617280i,used_percent=71.43216133117676,dirty=0i,available_percent=28.567838668823242,write_back_tmp=0i,swap_total=0i,vmalloc_chunk=0i,committed_as=0i,high_total=0i,page_tables=0i,commit_limit=0i,huge_page_size=0i,mapped=0i,vmalloc_total=0i,total=8589934592i,buffered=0i,wired=2065350656i 1592318400000000000
+
+mem,host=andersonui-MacBookAir.local vmalloc_used=0i,committed_as=0i,vmalloc_chunk=0i,vmalloc_total=0i,huge_page_size=0i,huge_pages_free=0i,inactive=2360692736i,slab=0i,used_percent=71.60100936889648,swap_cached=0i,swap_total=0i,page_tables=0i,shared=0i,sunreclaim=0i,write_back_tmp=0i,available_percent=28.398990631103516,high_free=0i,mapped=0i,available=2439454720i,low_free=0i,low_total=0i,active=2618793984i,wired=2077499392i,high_total=0i,write_back=0i,cached=0i,dirty=0i,swap_free=0i,buffered=0i,commit_limit=0i,huge_pages_total=0i,sreclaimable=0i,total=8589934592i,used=6150479872i,free=78761984i 1592318390000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_iowait=0,usage_irq=0,usage_steal=0,usage_guest=0,usage_guest_nice=0,usage_idle=86.99349674837418,usage_system=6.728364182091045,usage_nice=0,usage_softirq=0,usage_user=6.278139069534768 1592318390000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_user=3.003003003003003,usage_idle=94.49449449449449,usage_softirq=0,usage_steal=0,usage_guest_nice=0,usage_system=2.5025025025025025,usage_nice=0,usage_iowait=0,usage_irq=0,usage_guest=0 1592318390000000000
+
+cpu,cpu=cpu2,host=andersonui-MacBookAir.local usage_irq=0,usage_steal=0,usage_user=7.9,usage_system=8.2,usage_idle=83.9,usage_guest=0,usage_guest_nice=0,usage_nice=0,usage_iowait=0,usage_softirq=0 1592318390000000000
+
+cpu,cpu=cpu1,host=andersonui-MacBookAir.local usage_softirq=0,usage_guest=0,usage_system=5.1,usage_idle=89.1,usage_iowait=0,usage_irq=0,usage_user=5.8,usage_nice=0,usage_steal=0,usage_guest_nice=0 1592318390000000000
+
+cpu,cpu=cpu0,host=andersonui-MacBookAir.local usage_user=8.408408408408409,usage_system=11.11111111111111,usage_iowait=0,usage_irq=0,usage_steal=0,usage_guest=0,usage_idle=80.48048048048048,usage_nice=0,usage_softirq=0,usage_guest_nice=0 1592318390000000000
+
+cpu,cpu=cpu-total,host=andersonui-MacBookAir.local usage_user=7.175,usage_idle=85.7,usage_irq=0,usage_softirq=0,usage_guest_nice=0,usage_system=7.125,usage_nice=0,usage_iowait=0,usage_steal=0,usage_guest=0 1592318400000000000
+
+cpu,cpu=cpu3,host=andersonui-MacBookAir.local usage_guest_nice=0,usage_system=3.9,usage_irq=0,usage_steal=0,usage_guest=0,usage_softirq=0,usage_user=3.7,usage_idle=92.4,usage_nice=0,usage_iowait=0 1592318400000000000
+
