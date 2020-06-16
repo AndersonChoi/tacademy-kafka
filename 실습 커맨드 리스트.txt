@@ -18,7 +18,7 @@ Apache Kafka 입문과 활용
 13 tar -xvf kafka.tgz
 14 cd kafka_2.13-2.5.0/bin
 15 ./kafka-topics.sh --create --bootstrap-server {aws ec2 public ip}:9092 --replication-factor 1 --partitions 3 --topic test
-16 ./kafka-console-producer.sh --bootstrap-server {aws ec2 public ip}:9092 --topic test
+16 ./kafka-console-producer.sh --bootstrap-server 13.125.182.148:9092 --topic test
 17 ./kafka-console-consumer.sh --bootstrap-server {aws ec2 public ip}:9092 --topic test --from-beginning
 18 ./kafka-console-consumer.sh --bootstrap-server {aws ec2 public ip}:9092 --topic test -group testgroup --from-beginning
 19 ./kafka-consumer-groups.sh --bootstrap-server {aws ec2 public ip}:9092 --list
@@ -28,7 +28,7 @@ Apache Kafka 입문과 활용
 
 # 카프카 프로듀서 실습 및 실행
 23 git clone https://github.com/AndersonChoi/tacademy-kafka.git
-24 ./kafka-console-consumer.sh --bootstrap-server {aws ec2 public ip}:9092 --topic test --property print.key=true --property key.separator="-"
+24 ./kafka-console-consumer.sh --bootstrap-server 13.125.182.148:9092 --topic test --property print.key=true --property key.separator="-"
 
 # 홈브루 설치
 25 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
