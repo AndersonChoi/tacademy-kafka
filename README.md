@@ -32,7 +32,7 @@
 
 1. [AndersonChoi/tacademy-kafka](https://github.com/AndersonChoi/tacademy-kafka) download or git clone in your local
 ```
-$ git cone https://github.com/AndersonChoi/tacademy-kafka.git
+$ git clone https://github.com/AndersonChoi/tacademy-kafka.git
 ```
 
 2. Import project
