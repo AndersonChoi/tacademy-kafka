@@ -31,7 +31,7 @@ public class ConsumerWithSyncCommit {
             for (ConsumerRecord<String, String> record : records) {
                 System.out.println(record.value());
                 consumer.commitSync();
-                record.offset()
+                record.offset();
             }
         }
     }
