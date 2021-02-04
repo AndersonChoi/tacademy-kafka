@@ -4,7 +4,7 @@ Apache Kafka 입문과 활용
 1 chmod 400 test-kafka.pem
 2 ssh -i kafka-test.pem ec2-user@{aws ec2 public ip}
 3 sudo yum install -y java-1.8.0-openjdk-devel.x86_64
-4 wget http://mirror.navercorp.com/apache/kafka/2.5.0/kafka_2.12-2.5.0.tgz
+4 wget https://downloads.apache.org/kafka/2.7.0/kafka_2.12-2.7.0.tgz
 5 export KAFKA_HEAP_OPTS="-Xmx400m -Xms400m"
 6 vi config/server.properties
 7 listeners=PLAINTEXT://:9092
