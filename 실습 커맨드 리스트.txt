@@ -14,7 +14,7 @@ Apache Kafka 입문과 활용
 11 tail -f logs/*
 
 # Local(macOS) 설치 및 CLI 실행
-12 curl http://mirror.navercorp.com/apache/kafka/2.5.0/kafka_2.13-2.5.0.tgz --output kafka.tgz 
+12 curl https://archive.apache.org/dist/kafka/2.5.0/kafka_2.13-2.5.0.tgz --output kafka.tgz 
 13 tar -xvf kafka.tgz
 14 cd kafka_2.13-2.5.0/bin
 15 ./kafka-topics.sh --create --bootstrap-server {aws ec2 public ip}:9092 --replication-factor 1 --partitions 3 --topic test
